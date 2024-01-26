@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer from Nepal. I am a undergraduate student,currently in the early phase of my developer journey. I love to explore the tech world, learn new things, and teach others the things that I have learned. I am very interested in topics like Web development, technical writing and community.
+I am a undergraduate student from Nepal,currently in the early phase of my developer journey. I love to explore the tech world, learn new things, and teach others the things that I have learned. I am very interested in topics like Web development, technical writing and community.
 ## Skills
 
 - JavaScript
