@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Your punam👋
 
-<!--
-**punamshrestha1/punamshrestha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer from Nepal. I am a undergraduate student,currently in the early phase of my developer journey. I love to explore the tech world, learn new things, and teach others the things that I have learned. I am very interested in topics like Web development, technical writing and community.
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Node.js
+
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+- [facebook](https://www.facebook.com/punam.shrestha.3726613/)
+- [instagram](https://www.instagram.com/punam.shrestha.3726613/)
+
+Happy coding! 🚀
