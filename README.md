@@ -7,7 +7,7 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 
 - JavaScript
 - React
-- Node.js
+  
 
 
 
