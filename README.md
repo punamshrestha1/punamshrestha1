@@ -25,17 +25,6 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 </p>
  
 
-
-
-### 📊 My GitHub Statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punamshrestha1&show_icons=true&count_private=true&theme=dark)  
-
-
-
-
-
-
 ## 💬 Want To Contact Me?
 Feel free to reach out to me for anything, I'll be happy to connect with you all!  
 
