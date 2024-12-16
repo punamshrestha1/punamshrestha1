@@ -13,7 +13,6 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 ### 🛠️ Tech Stack  
 
 <p align="left">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Origin.svg/1024px-Origin.svg.png" alt="Origin" width="100" height="100" style="margin: 10px;"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
