@@ -1,6 +1,13 @@
-### Hello, I'm punam👋
+### Hello, I'm Punam 👋  
 
-Welcome to my GitHub profile! Here's a little about me: 
+<p align="center">
+  <img src="https://your-photo-link-here" alt="Punam Shrestha" width="200" style="border-radius: 50%;">
+</p>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=58A6FF&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+Punam+Shrestha.;Feel+free+to+explore+my+projects.">
+</p>
+
 
 ### About Me
 
