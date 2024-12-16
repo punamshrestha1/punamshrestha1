@@ -26,12 +26,12 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 
 ## 💬 Want To Contact Me?
 Feel free to reach out to me for anything, I'll be happy to connect with you all!  
-<p align="left">  
+<p align="left">   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shresthapunam1010@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/punamsh39153060)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ](https://github.com/punamshrestha1)
-
+</p>
 
 
 
