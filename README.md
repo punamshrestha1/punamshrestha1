@@ -49,7 +49,10 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p-->
-[LinkedIn]([https://www.linkedin.com/in/punam-shrestha-30a1a3219/])
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+
 
 
 
