@@ -37,7 +37,7 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 Feel free to reach out to me for anything, I'll be happy to connect with you all!  
 <p align="left">   
   <a href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>  
   <a href="mailto:shresthapunam1010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
