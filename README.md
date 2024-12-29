@@ -51,7 +51,7 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
 </p-->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+[![LinkedIn](linkidin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
 
 
 
