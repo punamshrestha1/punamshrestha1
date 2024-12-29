@@ -35,7 +35,7 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 
 ## 💬 Want To Contact Me?
 Feel free to reach out to me for anything, I'll be happy to connect with you all!  
-<p align="left">   
+<!--p align="left">   
   <a href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>  
@@ -48,7 +48,8 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
   <a href="https://github.com/punamshrestha1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+</p-->
+[LinkedIn]([https://www.linkedin.com/in/punam-shrestha-30a1a3219/])
 
 
 
