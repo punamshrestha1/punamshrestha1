@@ -52,7 +52,7 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
 
 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_LinkedIn.svg)](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+[![LinkedIn](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)]
 
 
 
