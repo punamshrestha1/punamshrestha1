@@ -18,8 +18,7 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 
 <h3 align="left">Connect with me:</h3>
 Feel free to reach out to me for anything, I'll be happy to connect with you all!  
-<p align="left">
-<a href="(https://www.linkedin.com/in/punam-shrestha-30a1a3219/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punam-shrestha" height="30" width="40" /></a><a href="(https://www.facebook.com/punam.shrestha.3726613)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="punam.shrestha.3726613" height="30" width="40" /></a><a href="(https://x.com/punamsh39153060)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="punamshrestha" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.facebook.com/punam.shrestha.3726613" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a><a href="https://x.com/punamsh39153060" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a>
 </p>
 
 
