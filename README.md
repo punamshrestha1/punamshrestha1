@@ -54,11 +54,17 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p-->
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](href="https://x.com/punamsh39153060)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:shresthapunam1010@gmail.com)
 
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](href="https://x.com/punamsh39153060)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:shresthapunam1010@gmail.com)/-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="(https://www.linkedin.com/in/punam-shrestha-30a1a3219/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punam-shrestha" height="30" width="40" /></a>
+  
+<a href="(https://www.facebook.com/punam.shrestha.3726613)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="punam shrestha" height="30" width="40" /></a>
+<!--<a href="https://medium.com/@nadikapoudel16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nadikapoudel16" height="30" width="40" /></a>
+</p>
 
 
 
