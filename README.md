@@ -17,7 +17,12 @@ I am a undergraduate student from Nepal,currently in the early phase of my devel
 
 ### Skills
 
-- Python
+
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+
 
 ### 🛠️ Tech Stack  
 
@@ -49,10 +54,13 @@ Feel free to reach out to me for anything, I'll be happy to connect with you all
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p-->
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](href="https://www.linkedin.com/in/punam-shrestha-30a1a3219/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](href="https://x.com/punamsh39153060)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:shresthapunam1010@gmail.com)
 
 
 
-[![LinkedIn](https://www.linkedin.com/in/punam-shrestha-30a1a3219/)]
 
 
 
