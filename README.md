@@ -107,44 +107,6 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
   <img src="https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
----
-
-## `> cat projects.md`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Liquid Neural Network — Audio Classification
-
-Implementing and experimenting with **Liquid Time-Constant Neural Networks (LTC-NNs)** for audio event classification. These biologically-inspired networks adapt their dynamics in real time, outperforming traditional RNNs on sequential audio data.
-
-**Stack:** `Python` `PyTorch` `Librosa` `Liquid-S4`  
-**Focus:** Audio ML · Neuromorphic Computing · Research
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Research](https://img.shields.io/badge/Research-FF6F00?style=flat-square&logo=googledocs&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
----
-
-## `> github --stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=punamshrestha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=punamshrestha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punamshrestha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=punamshrestha&theme=tokyonight&utcOffset=5.45" alt="Productive Time"/>
-
-</div>
-
----
-
-
 ## `> cat mindset.quote`
 
 <div align="center">
@@ -152,8 +114,6 @@ Implementing and experimenting with **Liquid Time-Constant Neural Networks (LTC-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
----
 
 ## `> connect --me`
 
