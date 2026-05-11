@@ -136,13 +136,13 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
 
 <div align="center">
 
-If my work has helped you or inspired your learning journey, consider subscribing to stay updated:
+If my work has helped you or inspired your learning journey, consider subscribing to my channel:
 
-[![Subscribe](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@punamshrestha](https://www.youtube.com/@Punamsdiaries))
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-Punam's%20Diaries-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Punamsdiaries)
 
+*Subscribe to follow my AI journey, tech learnings, and developer diaries from Nepal 🇳🇵* 🙏
 
 </div>
-
 *Your support helps me dedicate more time to AI research and open-source contributions.* 🙏
 
 </div>
