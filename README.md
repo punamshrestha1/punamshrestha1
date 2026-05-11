@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
   &nbsp;
-  <a href="mailto:punam@example.com">
+  <a href="mailto:shresthapunam1010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -35,14 +35,12 @@
 class PunamShrestha:
     def __init__(self):
         self.name        = "Punam Shrestha"
-        self.role        = "Final-Year Computer Engineering Student"
+        self.role        = "Computer Engineering Student"
         self.location    = "🇳🇵 Nepal"
         self.education   = "B.E. Computer Engineering"
         self.focus       = ["AI Engineering", "Deep Learning", "Data Engineering"]
-        self.current     = "Building Liquid Neural Networks for Audio Classification"
-        self.learning    = ["AWS Data Engineering", "Scalable ML Systems", "MLOps"]
         self.interests   = ["Computer Vision", "Research", "Open Source", "Innovation"]
-        self.available   = "Open to AI/ML Internships & Research Collaborations 🚀"
+        self.available   = "Open to AI/ML Internships & Research Collaborations"
 
     def say_hi(self):
         print("I build AI systems that learn, adapt, and scale.")
@@ -53,13 +51,10 @@ class PunamShrestha:
 
 ## `> cat about.md`
 
-I'm a **final-year Computer Engineering student** from Nepal with a deep passion for **Artificial Intelligence** and **Machine Learning**. I love turning complex problems into elegant AI-powered solutions — from designing neural architectures to building end-to-end data pipelines.
+I'm a **Computer Engineering student** from Nepal with a deep passion for **Artificial Intelligence** and **Machine Learning**. I love turning complex problems into elegant AI-powered solutions — from designing neural architectures to building end-to-end data pipelines.
 
-Currently, I'm researching **Liquid Neural Networks** for audio classification — a cutting-edge approach inspired by biological neural systems. My work bridges the gap between theoretical ML research and real-world engineering.
+ My work bridges the gap between theoretical ML research and real-world engineering.
 
-- 🔭 &nbsp; Working on **Liquid Neural Networks for Audio Classification**
-- 🌱 &nbsp; Learning **AWS Data Engineering** and **scalable AI infrastructure**
-- 🧠 &nbsp; Exploring **Computer Vision**, **Deep Learning**, and **LLMs**
 - 🤝 &nbsp; Looking to collaborate on **AI research** and **open-source ML projects**
 - 💼 &nbsp; Actively seeking **AI/ML internships** and **research opportunities**
 - ⚡ &nbsp; Fun fact: I believe the best models, like the best engineers, never stop learning
@@ -121,7 +116,6 @@ Currently, I'm researching **Liquid Neural Networks** for audio classification �
 <td width="50%" valign="top">
 
 ### 🧠 Liquid Neural Network — Audio Classification
-> *Research Project · In Progress*
 
 Implementing and experimenting with **Liquid Time-Constant Neural Networks (LTC-NNs)** for audio event classification. These biologically-inspired networks adapt their dynamics in real time, outperforming traditional RNNs on sequential audio data.
 
@@ -133,48 +127,6 @@ Implementing and experimenting with **Liquid Time-Constant Neural Networks (LTC-
 
 </td>
 <td width="50%" valign="top">
-
-### 👁️ Computer Vision Pipeline
-> *Deep Learning · OpenCV*
-
-End-to-end computer vision pipeline for real-time object detection and image segmentation using pre-trained YOLO and custom CNN architectures fine-tuned on domain-specific datasets.
-
-**Stack:** `Python` `OpenCV` `TensorFlow` `YOLO`  
-**Focus:** Object Detection · Transfer Learning · CV
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ AWS Data Engineering Pipeline
-> *Cloud · In Progress*
-
-Building a scalable data ingestion and transformation pipeline on AWS using S3, Glue, and Athena. Implements medallion architecture for clean, analytics-ready datasets.
-
-**Stack:** `AWS S3` `AWS Glue` `Athena` `Python` `SQL`  
-**Focus:** ETL · Data Engineering · Cloud
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 AI-Powered Web App
-> *Django · ML Backend*
-
-Full-stack AI application with a Django backend serving ML model predictions via REST API. Includes model versioning, async inference queue, and a React frontend dashboard.
-
-**Stack:** `Django` `FastAPI` `React` `MySQL` `scikit-learn`  
-**Focus:** MLOps · Full-stack · API Design
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -192,35 +144,6 @@ Full-stack AI application with a Django backend serving ML model predictions via
 
 ---
 
-## `> git trophy --show`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punamshrestha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## `> git log --graph --activity`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punamshrestha&custom_title=Punam's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## `> snake --contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/punamshrestha/punamshrestha/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/punamshrestha/punamshrestha/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/punamshrestha/punamshrestha/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-> 💡 **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repository's workflows.
-
----
 
 ## `> cat mindset.quote`
 
@@ -241,7 +164,7 @@ Full-stack AI application with a Django backend serving ML model predictions via
 | 💼 **LinkedIn** | [punam-shrestha-30a1a3219](https://www.linkedin.com/in/punam-shrestha-30a1a3219/) | Professional networking & opportunities |
 | 🐦 **Twitter / X** | [@punamsh39153060](https://x.com/punamsh39153060) | AI/ML thoughts & tech updates |
 | 📘 **Facebook** | [punam.shrestha.3726613](https://www.facebook.com/punam.shrestha.3726613) | Community & outreach |
-| 📧 **Email** | punam[at]example.com | Internships, research & collaborations |
+| 📧 **Email** | shresthapunam1010@gmaail.com | Internships, research & collaborations |
 
 **Open to:** `AI/ML Internships` · `Research Collaborations` · `Open Source Projects` · `Technical Mentorship`
 
