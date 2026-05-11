@@ -136,10 +136,12 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
 
 <div align="center">
 
-If my work has helped you or inspired your learning journey, consider supporting me:
+If my work has helped you or inspired your learning journey, consider subscribing to stay updated:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/punamshrestha)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/punamshrestha)
+[![Subscribe](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@punamshrestha](https://www.youtube.com/@Punamsdiaries))
+
+
+</div>
 
 *Your support helps me dedicate more time to AI research and open-source contributions.* 🙏
 
