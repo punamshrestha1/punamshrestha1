@@ -55,15 +55,15 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
 
  My work bridges the gap between theoretical ML research and real-world engineering.
 
-- 🤝 &nbsp; Looking to collaborate on **AI research** and **open-source ML projects**
-- 💼 &nbsp; Actively seeking **AI/ML internships** and **research opportunities**
-- ⚡ &nbsp; Fun fact: I believe the best models, like the best engineers, never stop learning
+-  &nbsp; Looking to collaborate on **AI research** and **open-source ML projects**
+-  &nbsp; Actively seeking **AI/ML internships** and **research opportunities**
+-  &nbsp; Fun fact: I believe the best models, like the best engineers, never stop learning
 
 ---
 
 ## `> ls skills/`
 
-### 🤖 &nbsp; AI / Machine Learning
+###  &nbsp; AI / Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -75,7 +75,7 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### 📊 &nbsp; Data Engineering & Analytics
+###  &nbsp; Data Engineering & Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -85,7 +85,7 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-### 🌐 &nbsp; Web & Backend
+###  &nbsp; Web & Backend
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -121,10 +121,9 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💼 **LinkedIn** | [punam-shrestha-30a1a3219](https://www.linkedin.com/in/punam-shrestha-30a1a3219/) | Professional networking & opportunities |
-| 🐦 **Twitter / X** | [@punamsh39153060](https://x.com/punamsh39153060) | AI/ML thoughts & tech updates |
-| 📘 **Facebook** | [punam.shrestha.3726613](https://www.facebook.com/punam.shrestha.3726613) | Community & outreach |
-| 📧 **Email** | shresthapunam1010@gmaail.com | Internships, research & collaborations |
+|  **LinkedIn** | [punam-shrestha-30a1a3219](https://www.linkedin.com/in/punam-shrestha-30a1a3219/) | Professional networking & opportunities |
+|  **Twitter / X** | [@punamsh39153060](https://x.com/punamsh39153060) | AI/ML thoughts & tech updates |
+|  **Email** | shresthapunam1010@gmaail.com | Internships, research & collaborations |
 
 **Open to:** `AI/ML Internships` · `Research Collaborations` · `Open Source Projects` · `Technical Mentorship`
 
@@ -138,7 +137,7 @@ I'm a **Computer Engineering student** from Nepal with a deep passion for **Arti
 
 If my work has helped you or inspired your learning journey, consider subscribing to my channel:
 
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-Punam's%20Diaries-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Punamsdiaries)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-PunamsDiaries-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Punamsdiaries)
 
 *Subscribe to follow my AI journey, tech learnings, and developer diaries from Nepal 🇳🇵* 
 
